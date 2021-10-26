@@ -26,7 +26,8 @@ Here are the results for the
 
 ![](Data/Mentorship_Eligibility_image.png)
 
-### ## Results
+### Results
+
 - The first part of analysis gives us a clear picture of number of retiring employees by title. This gives the PH HR department a good idea as to how many positions must be filled in each department.
 - To fill 903,98 roles is a lot of work & time consuming. So, the data provided in the first part of analysis can help PH for future planning, and to start ahead of time with the recruitment process.
 - The second part of analysis identified; the employees eligible to participate in the mentorship program
