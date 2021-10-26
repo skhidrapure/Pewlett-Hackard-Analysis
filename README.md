@@ -24,7 +24,7 @@ For the second part of the analysis, using the ERD created as a reference and wi
 
 Here are the results for the 
 
-![](Data/Mentorship_Eligibility_image.png)
+![](Data/mentorship_eligibility_table_image.png)
 
 ### Results
 
